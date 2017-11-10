@@ -1,0 +1,1 @@
+This is a quick tryout for MongoDB, Node.js and Docker.
